@@ -4,6 +4,8 @@ import ApisController from 'App/Controllers/Http/ApisController';
 import UsersController from 'App/Controllers/Http/UsersController';
 import isAuth from 'App/Middleware/Auth';
 
+import ReportPage from 'App/Middleware/Auth';
+
 const Route = Router();
 
 /*
